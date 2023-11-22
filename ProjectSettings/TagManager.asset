@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Brick
   layers:
   - Default
   - TransparentFX
@@ -46,4 +47,7 @@ TagManager:
     locked: 0
   - name: Paddle
     uniqueID: 3498851875
+    locked: 0
+  - name: Bricks
+    uniqueID: 935813131
     locked: 0
